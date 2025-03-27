@@ -1,0 +1,543 @@
+{
+  "Anatomy": [
+    {
+      "id": 1,
+      "question": "What is the longest bone in the human body?",
+      "options": ["Femur", "Tibia", "Humerus", "Fibula"],
+      "answer": "Femur",
+      "explanation": "The femur, or thigh bone, is the longest and strongest bone in the human body, supporting weight and enabling movement."
+    },
+    {
+      "id": 2,
+      "question": "Which bone protects the brain?",
+      "options": ["Skull", "Rib cage", "Pelvis", "Femur"],
+      "answer": "Skull",
+      "explanation": "The skull is a bony structure that surrounds and protects the brain from injury and supports facial structures."
+    },
+    {
+      "id": 3,
+      "question": "How many chambers does the human heart have?",
+      "options": ["2", "4", "3", "5"],
+      "answer": "4",
+      "explanation": "The human heart has four chambers—two atria and two ventricles—that pump oxygen-rich and oxygen-poor blood throughout the body."
+    },
+    {
+      "id": 4,
+      "question": "Which organ is responsible for detoxifying chemicals?",
+      "options": ["Liver", "Kidney", "Heart", "Lungs"],
+      "answer": "Liver",
+      "explanation": "The liver filters toxins from the blood, processes nutrients, and breaks down harmful substances in the body."
+    },
+    {
+      "id": 5,
+      "question": "What is the smallest bone in the human body?",
+      "options": ["Stapes", "Incus", "Malleus", "Humerus"],
+      "answer": "Stapes",
+      "explanation": "The stapes, located in the middle ear, is the smallest bone in the human body and helps transmit sound vibrations to the inner ear."
+    },
+    {
+      "id": 6,
+      "question": "Which part of the brain controls balance?",
+      "options": ["Cerebellum", "Cerebrum", "Brainstem", "Thalamus"],
+      "answer": "Cerebellum",
+      "explanation": "The cerebellum, located at the back of the brain, controls balance, coordination, and fine motor movements."
+    },
+    {
+      "id": 7,
+      "question": "What is the main function of red blood cells?",
+      "options": ["Transport oxygen", "Fight infections", "Clot blood", "Store nutrients"],
+      "answer": "Transport oxygen",
+      "explanation": "Red blood cells contain hemoglobin, which binds to oxygen and transports it from the lungs to tissues throughout the body."
+    },
+    {
+      "id": 8,
+      "question": "Which muscle is responsible for breathing?",
+      "options": ["Diaphragm", "Biceps", "Quadriceps", "Trapezius"],
+      "answer": "Diaphragm",
+      "explanation": "The diaphragm is a dome-shaped muscle that contracts and relaxes to allow air into and out of the lungs."
+    },
+    {
+      "id": 9,
+      "question": "What is the primary function of the kidneys?",
+      "options": ["Filter blood", "Produce insulin", "Digest food", "Regulate temperature"],
+      "answer": "Filter blood",
+      "explanation": "The kidneys remove waste and excess fluids from the blood, regulate electrolytes, and maintain blood pressure."
+    },
+    {
+      "id": 10,
+      "question": "Which part of the eye is responsible for focusing light?",
+      "options": ["Lens", "Retina", "Cornea", "Iris"],
+      "answer": "Lens",
+      "explanation": "The lens is a transparent, flexible structure in the eye that focuses light onto the retina to create clear images."
+    }
+  ],
+  "Behavioral science": [
+    {
+      "id": 1,
+      "question": "Which type of reinforcement increases the likelihood of a behavior repeating?",
+      "options": ["Positive reinforcement", "Negative reinforcement", "Punishment", "Extinction"],
+      "answer": "Positive reinforcement",
+      "explanation": "Positive reinforcement strengthens a behavior by providing a rewarding stimulus after the desired response."
+    },
+    {
+      "id": 2,
+      "question": "What is the term for a learned response to a previously neutral stimulus?",
+      "options": ["Conditioned response", "Unconditioned response", "Reflex", "Instinct"],
+      "answer": "Conditioned response",
+      "explanation": "A conditioned response is acquired through classical conditioning when a neutral stimulus is repeatedly paired with an unconditioned stimulus."
+    },
+    {
+      "id": 3,
+      "question": "Which psychologist is known for the hierarchy of needs?",
+      "options": ["Maslow", "Freud", "Skinner", "Piaget"],
+      "answer": "Maslow",
+      "explanation": "Abraham Maslow proposed the hierarchy of needs, which describes human motivation through a pyramid of basic to self-actualization needs."
+    },
+    {
+      "id": 4,
+      "question": "What is the term for the decrease in response to a stimulus after repeated exposure?",
+      "options": ["Habituation", "Sensitization", "Conditioning", "Extinction"],
+      "answer": "Habituation",
+      "explanation": "Habituation occurs when an organism decreases or stops responding to a repeated stimulus over time."
+    },
+    {
+      "id": 5,
+      "question": "Which type of learning occurs by observing others?",
+      "options": ["Observational learning", "Classical conditioning", "Operant conditioning", "Latent learning"],
+      "answer": "Observational learning",
+      "explanation": "Observational learning, or modeling, occurs when individuals learn behaviors by watching and imitating others."
+    },
+    {
+      "id": 6,
+      "question": "What is the term for the mental process of acquiring knowledge and understanding?",
+      "options": ["Cognition", "Perception", "Emotion", "Motivation"],
+      "answer": "Cognition",
+      "explanation": "Cognition refers to mental processes such as thinking, memory, problem-solving, and decision-making."
+    },
+    {
+      "id": 7,
+      "question": "Which theory suggests that behaviors are motivated by the desire to reduce internal tension?",
+      "options": ["Drive reduction theory", "Cognitive dissonance theory", "Self-determination theory", "Social learning theory"],
+      "answer": "Drive reduction theory",
+      "explanation": "Drive reduction theory suggests that motivation arises from biological needs that create internal tension, which individuals seek to reduce."
+    },
+    {
+      "id": 8,
+      "question": "What is the term for the phenomenon where people perform better on tasks in the presence of others?",
+      "options": ["Social facilitation", "Social loafing", "Groupthink", "Deindividuation"],
+      "answer": "Social facilitation",
+      "explanation": "Social facilitation occurs when an individual's performance improves on simple or well-learned tasks in the presence of others."
+    },
+    {
+      "id": 9,
+      "question": "Which type of memory is responsible for temporarily holding information available for processing?",
+      "options": ["Working memory", "Long-term memory", "Sensory memory", "Procedural memory"],
+      "answer": "Working memory",
+      "explanation": "Working memory is a limited-capacity system that temporarily holds and manipulates information for cognitive tasks such as problem-solving."
+    },
+    {
+      "id": 10,
+      "question": "Which psychological approach focuses on the role of unconscious processes and early life experiences?",
+      "options": ["Psychoanalytic", "Cognitive", "Behavioral", "Humanistic"],
+      "answer": "Psychoanalytic",
+      "explanation": "The psychoanalytic approach, founded by Freud, emphasizes the influence of unconscious thoughts and childhood experiences on behavior."
+    }
+  ],
+  "Biochemistry": [
+    {
+      "id": 1,
+      "question": "Which molecule is the primary energy carrier in cells?",
+      "options": ["ATP", "DNA", "RNA", "Glucose"],
+      "answer": "ATP",
+      "explanation": "ATP (adenosine triphosphate) serves as the main energy currency in cells, providing energy for various biochemical reactions."
+    },
+    {
+      "id": 2,
+      "question": "What is the main structural component of cell membranes?",
+      "options": ["Phospholipids", "Proteins", "Carbohydrates", "Nucleic acids"],
+      "answer": "Phospholipids",
+      "explanation": "Phospholipids form the lipid bilayer of cell membranes, providing structure and regulating the passage of substances."
+    },
+    {
+      "id": 3,
+      "question": "Which biomolecule serves as the blueprint for protein synthesis?",
+      "options": ["DNA", "RNA", "ATP", "Glucose"],
+      "answer": "DNA",
+      "explanation": "DNA contains genetic instructions that guide the synthesis of proteins essential for cellular functions."
+    },
+    {
+      "id": 4,
+      "question": "What is the process of converting glucose into pyruvate called?",
+      "options": ["Glycolysis", "Gluconeogenesis", "Krebs cycle", "Photosynthesis"],
+      "answer": "Glycolysis",
+      "explanation": "Glycolysis is the first step in cellular respiration, breaking down glucose into pyruvate to produce ATP."
+    },
+    {
+      "id": 5,
+      "question": "Which vitamin is essential for the synthesis of collagen?",
+      "options": ["Vitamin C", "Vitamin D", "Vitamin A", "Vitamin B12"],
+      "answer": "Vitamin C",
+      "explanation": "Vitamin C is required for collagen synthesis, which is crucial for connective tissue strength and wound healing."
+    },
+    {
+      "id": 6,
+      "question": "What is the function of enzymes in biochemical reactions?",
+      "options": ["Catalysts", "Inhibitors", "Reactants", "Products"],
+      "answer": "Catalysts",
+      "explanation": "Enzymes act as biological catalysts that speed up chemical reactions without being consumed in the process."
+    },
+    {
+      "id": 7,
+      "question": "Which type of bond holds the two strands of DNA together?",
+      "options": ["Hydrogen bonds", "Ionic bonds", "Covalent bonds", "Peptide bonds"],
+      "answer": "Hydrogen bonds",
+      "explanation": "Hydrogen bonds between nitrogenous bases stabilize the double-helix structure of DNA."
+    },
+    {
+      "id": 8,
+      "question": "Which process is responsible for the synthesis of RNA from a DNA template?",
+      "options": ["Transcription", "Translation", "Replication", "Mutation"],
+      "answer": "Transcription",
+      "explanation": "During transcription, RNA polymerase reads DNA and synthesizes a complementary RNA strand."
+    },
+    {
+      "id": 9,
+      "question": "What is the main storage form of glucose in animals?",
+      "options": ["Glycogen", "Starch", "Cellulose", "Sucrose"],
+      "answer": "Glycogen",
+      "explanation": "Glycogen is a polysaccharide stored in liver and muscle cells, serving as an energy reserve."
+    },
+    {
+      "id": 10,
+      "question": "Which amino acid contains sulfur in its side chain?",
+      "options": ["Cysteine", "Lysine", "Arginine", "Glutamine"],
+      "answer": "Cysteine",
+      "explanation": "Cysteine contains a sulfur atom in its thiol (-SH) group, allowing the formation of disulfide bonds in proteins."
+    }
+  ],
+  "Biostatistics": [
+    {
+      "id": 1,
+      "question": "Which measure of central tendency is most affected by extreme values?",
+      "options": ["Mean", "Median", "Mode", "Range"],
+      "answer": "Mean",
+      "explanation": "The mean is sensitive to extreme values because it considers all data points, unlike the median, which is more robust to outliers."
+    },
+    {
+      "id": 2,
+      "question": "What is the term for the spread of data around the mean?",
+      "options": ["Standard deviation", "Variance", "Range", "Interquartile range"],
+      "answer": "Standard deviation",
+      "explanation": "Standard deviation measures how much data points deviate from the mean, giving insight into variability in a dataset."
+    },
+    {
+      "id": 3,
+      "question": "Which type of graph is used to display the distribution of a single quantitative variable?",
+      "options": ["Histogram", "Bar chart", "Pie chart", "Line graph"],
+      "answer": "Histogram",
+      "explanation": "Histograms group data into intervals and show frequency distributions, making them useful for understanding data shape."
+    },
+    {
+      "id": 4,
+      "question": "What is the probability of two independent events both occurring?",
+      "options": ["Product of their probabilities", "Sum of their probabilities", "Difference of their probabilities", "Ratio of their probabilities"],
+      "answer": "Product of their probabilities",
+      "explanation": "For independent events, the probability of both happening is found by multiplying their individual probabilities."
+    },
+    {
+      "id": 5,
+      "question": "Which statistical test is used to compare the means of two groups?",
+      "options": ["t-test", "Chi-square test", "ANOVA", "Regression"],
+      "answer": "t-test",
+      "explanation": "A t-test determines whether there is a significant difference between the means of two groups."
+    },
+    {
+      "id": 6,
+      "question": "What is the null hypothesis in hypothesis testing?",
+      "options": ["There is no effect", "There is an effect", "The effect is positive", "The effect is negative"],
+      "answer": "There is no effect",
+      "explanation": "The null hypothesis assumes no relationship or effect, serving as a baseline for statistical testing."
+    },
+    {
+      "id": 7,
+      "question": "Which type of correlation indicates a strong relationship between two variables?",
+      "options": ["Close to 1 or -1", "Close to 0", "Greater than 1", "Less than -1"],
+      "answer": "Close to 1 or -1",
+      "explanation": "A correlation close to 1 or -1 suggests a strong positive or negative relationship between two variables."
+    },
+    {
+      "id": 8,
+      "question": "What is the purpose of a control group in an experiment?",
+      "options": ["To provide a baseline for comparison", "To introduce variability", "To change the outcome", "To increase sample size"],
+      "answer": "To provide a baseline for comparison",
+      "explanation": "A control group helps researchers determine the effect of the independent variable by providing a point of reference."
+    },
+    {
+      "id": 9,
+      "question": "What is the term for a sample that accurately reflects the population?",
+      "options": ["Representative sample", "Biased sample", "Random sample", "Convenience sample"],
+      "answer": "Representative sample",
+      "explanation": "A representative sample mirrors the characteristics of the population, ensuring valid generalizations."
+    },
+    {
+      "id": 10,
+      "question": "Which statistical measure indicates the strength and direction of a linear relationship between two variables?",
+      "options": ["Correlation coefficient", "Standard deviation", "Variance", "Mean"],
+      "answer": "Correlation coefficient",
+      "explanation": "The correlation coefficient quantifies the strength and direction of a relationship between two variables."
+    }
+]
+,
+  "Embryology": [
+    {
+      "id": 1,
+      "question": "At what week does the fetal heart begin to beat?",
+      "options": ["3rd week", "5th week", "7th week", "9th week"],
+      "answer": "3rd week",
+      "explanation": "The fetal heart begins to form and beat around the 3rd week of development, ensuring early circulation of nutrients."
+    },
+    {
+      "id": 2,
+      "question": "Which structure forms the placenta?",
+      "options": ["Trophoblast", "Embryoblast", "Amnioblast", "Morula"],
+      "answer": "Trophoblast",
+      "explanation": "The trophoblast contributes to the formation of the placenta, which supports fetal growth by exchanging nutrients and oxygen with the mother."
+    },
+    {
+      "id": 3,
+      "question": "What is the term for the process of cell division in the early embryo?",
+      "options": ["Cleavage", "Gastrulation", "Neurulation", "Organogenesis"],
+      "answer": "Cleavage",
+      "explanation": "Cleavage is the rapid mitotic division of the fertilized egg, producing smaller cells called blastomeres without increasing overall size."
+    },
+    {
+      "id": 4,
+      "question": "Which germ layer gives rise to the nervous system?",
+      "options": ["Ectoderm", "Mesoderm", "Endoderm", "Trophoblast"],
+      "answer": "Ectoderm",
+      "explanation": "The ectoderm is the outermost germ layer and differentiates into the nervous system, skin, and sensory organs."
+    },
+    {
+      "id": 5,
+      "question": "What is the term for the formation of the three germ layers?",
+      "options": ["Gastrulation", "Neurulation", "Cleavage", "Fertilization"],
+      "answer": "Gastrulation",
+      "explanation": "Gastrulation is a crucial stage where the single-layered blastula reorganizes into a trilaminar structure with ectoderm, mesoderm, and endoderm."
+    },
+    {
+      "id": 6,
+      "question": "Which structure develops into the umbilical cord?",
+      "options": ["Connecting stalk", "Yolk sac", "Chorion", "Amnion"],
+      "answer": "Connecting stalk",
+      "explanation": "The connecting stalk later develops into the umbilical cord, allowing nutrient and gas exchange between the fetus and placenta."
+    },
+    {
+      "id": 7,
+      "question": "What is the name of the fluid-filled cavity that forms during blastocyst development?",
+      "options": ["Blastocoel", "Amniotic cavity", "Chorionic cavity", "Yolk sac"],
+      "answer": "Blastocoel",
+      "explanation": "The blastocoel is a fluid-filled cavity that appears inside the blastocyst and plays a role in early embryo development."
+    },
+    {
+      "id": 8,
+      "question": "Which phase of embryonic development involves the folding of the embryo?",
+      "options": ["Neurulation", "Gastrulation", "Cleavage", "Fertilization"],
+      "answer": "Neurulation",
+      "explanation": "Neurulation is the stage where the neural tube forms, marking the beginning of central nervous system development."
+    },
+    {
+      "id": 9,
+      "question": "What is the term for the early stage of embryonic development characterized by rapid cell division?",
+      "options": ["Cleavage", "Gastrulation", "Neurulation", "Organogenesis"],
+      "answer": "Cleavage",
+      "explanation": "Cleavage involves a series of mitotic divisions that produce a multicellular structure without significant growth in size."
+    },
+    {
+      "id": 10,
+      "question": "Which structure gives rise to the fetal portion of the placenta?",
+      "options": ["Chorion", "Amnion", "Yolk sac", "Allantois"],
+      "answer": "Chorion",
+      "explanation": "The chorion is an extraembryonic membrane that forms the fetal part of the placenta, essential for nutrient and gas exchange."
+    }
+]
+,
+  "Genetics": [
+    {
+      "id": 1,
+      "question": "What is the term for a change in the DNA sequence?",
+      "options": ["Mutation", "Translation", "Replication", "Transcription"],
+      "answer": "Mutation",
+      "explanation": "A mutation is a permanent change in the DNA sequence, which can lead to genetic variation or diseases."
+    },
+    {
+      "id": 2,
+      "question": "Which type of inheritance involves the transmission of traits from both parents?",
+      "options": ["Mendelian inheritance", "Lamarckian inheritance", "Blending inheritance", "Epigenetic inheritance"],
+      "answer": "Mendelian inheritance",
+      "explanation": "Mendelian inheritance follows Gregor Mendel's laws, where traits are passed down from both parents through dominant and recessive alleles."
+    },
+    {
+      "id": 3,
+      "question": "What is the term for an organism's genetic makeup?",
+      "options": ["Genotype", "Phenotype", "Allele", "Chromosome"],
+      "answer": "Genotype",
+      "explanation": "The genotype refers to the genetic code of an organism, which determines its traits and characteristics."
+    },
+    {
+      "id": 4,
+      "question": "Which type of mutation involves the insertion or deletion of nucleotides?",
+      "options": ["Frameshift mutation", "Point mutation", "Silent mutation", "Missense mutation"],
+      "answer": "Frameshift mutation",
+      "explanation": "A frameshift mutation occurs when nucleotides are inserted or deleted, altering the reading frame and potentially causing significant changes in protein function."
+    },
+    {
+      "id": 5,
+      "question": "What is the term for the physical expression of an organism's genes?",
+      "options": ["Phenotype", "Genotype", "Allele", "Chromosome"],
+      "answer": "Phenotype",
+      "explanation": "The phenotype refers to the observable traits of an organism, influenced by both genetic and environmental factors."
+    },
+    {
+      "id": 6,
+      "question": "Which type of genetic disorder is caused by an extra chromosome?",
+      "options": ["Trisomy", "Monosomy", "Deletion", "Duplication"],
+      "answer": "Trisomy",
+      "explanation": "Trisomy is a condition where an individual has an extra chromosome, such as in Down syndrome (Trisomy 21)."
+    },
+    {
+      "id": 7,
+      "question": "What is the term for a segment of DNA that codes for a protein?",
+      "options": ["Gene", "Chromosome", "Allele", "Nucleotide"],
+      "answer": "Gene",
+      "explanation": "A gene is a sequence of DNA that contains instructions for building a specific protein, which determines traits."
+    },
+    {
+      "id": 8,
+      "question": "Which process results in the formation of gametes?",
+      "options": ["Meiosis", "Mitosis", "Replication", "Transcription"],
+      "answer": "Meiosis",
+      "explanation": "Meiosis is the cell division process that produces gametes (sperm and eggs), reducing the chromosome number by half for sexual reproduction."
+    },
+    {
+      "id": 9,
+      "question": "What is the term for a different form of a gene?",
+      "options": ["Allele", "Chromosome", "Nucleotide", "Locus"],
+      "answer": "Allele",
+      "explanation": "An allele is a variant form of a gene that may lead to different traits, such as eye color or blood type."
+    },
+    {
+      "id": 10,
+      "question": "Which type of inheritance pattern involves multiple genes influencing a trait?",
+      "options": ["Polygenic inheritance", "Mendelian inheritance", "Codominance", "Incomplete dominance"],
+      "answer": "Polygenic inheritance",
+      "explanation": "Polygenic inheritance occurs when multiple genes contribute to a single trait, such as height, skin color, or intelligence."
+    }
+]
+,
+  "Histology": [
+    {
+      "id": 1,
+      "question": "Which type of tissue lines the blood vessels?",
+      "options": ["Epithelial", "Connective", "Muscle", "Nervous"],
+      "answer": "Epithelial",
+      "explanation": "Epithelial tissue forms the inner lining of blood vessels, specifically the simple squamous epithelium known as endothelium, which helps in reducing friction and facilitating smooth blood flow."
+    },
+    {
+      "id": 2,
+      "question": "What is the main function of connective tissue?",
+      "options": ["Support and bind other tissues", "Conduct nerve impulses", "Contract to produce movement", "Protect against infection"],
+      "answer": "Support and bind other tissues",
+      "explanation": "Connective tissue provides structural support, connects different tissues, and plays a role in defense, energy storage, and repair."
+    },
+    {
+      "id": 3,
+      "question": "Which type of muscle tissue is voluntary?",
+      "options": ["Skeletal", "Cardiac", "Smooth", "Epithelial"],
+      "answer": "Skeletal",
+      "explanation": "Skeletal muscle tissue is under voluntary control, allowing movement by conscious effort, unlike cardiac and smooth muscle tissues, which are involuntary."
+    },
+    {
+      "id": 4,
+      "question": "What is the primary function of nervous tissue?",
+      "options": ["Transmit electrical signals", "Store nutrients", "Protect organs", "Produce hormones"],
+      "answer": "Transmit electrical signals",
+      "explanation": "Nervous tissue consists of neurons and glial cells, which help in transmitting electrical impulses to coordinate body functions."
+    },
+    {
+      "id": 5,
+      "question": "Which type of epithelial tissue is found in the lining of the stomach?",
+      "options": ["Simple columnar", "Stratified squamous", "Transitional", "Pseudostratified columnar"],
+      "answer": "Simple columnar",
+      "explanation": "Simple columnar epithelium lines the stomach and intestines, aiding in absorption and secretion of digestive enzymes and mucus."
+    },
+    {
+      "id": 6,
+      "question": "What is the term for the extracellular matrix of connective tissue?",
+      "options": ["Ground substance", "Basement membrane", "Lamina propria", "Intercalated discs"],
+      "answer": "Ground substance",
+      "explanation": "Ground substance is the non-cellular component of the extracellular matrix in connective tissue, providing support and a medium for nutrient exchange."
+    },
+    {
+      "id": 7,
+      "question": "Which type of cartilage is found in the intervertebral discs?",
+      "options": ["Fibrocartilage", "Hyaline cartilage", "Elastic cartilage", "Articular cartilage"],
+      "answer": "Fibrocartilage",
+      "explanation": "Fibrocartilage is a tough, dense form of cartilage found in intervertebral discs, providing strength and shock absorption."
+    }
+]
+,
+  "Immunology": [
+    {
+      "id": 1,
+      "question": "Which immunoglobulin is the most abundant in the blood?",
+      "options": ["IgA", "IgG", "IgM", "IgE"],
+      "answer": "IgG",
+      "explanation": "IgG is the most abundant antibody in the blood and extracellular fluid, providing long-term immunity after infection or vaccination."
+    }
+  ],
+  "Microbiology": [
+    {
+      "id": 1,
+      "question": "Which bacteria is responsible for causing tuberculosis?",
+      "options": ["Mycobacterium tuberculosis", "Staphylococcus aureus", "Escherichia coli", "Salmonella typhi"],
+      "answer": "Mycobacterium tuberculosis",
+      "explanation": "Mycobacterium tuberculosis is a slow-growing, acid-fast bacterium that primarily affects the lungs and causes tuberculosis."
+    }
+  ],
+  "Pathology": [
+    {
+      "id": 1,
+      "question": "What is the term for cell death due to lack of oxygen?",
+      "options": ["Apoptosis", "Necrosis", "Autophagy", "Inflammation"],
+      "answer": "Necrosis",
+      "explanation": "Necrosis is uncontrolled cell death caused by ischemia (lack of oxygen) or injury, leading to inflammation and tissue damage."
+    }
+  ],
+  "Pathophysiology": [
+    {
+      "id": 1,
+      "question": "Which organ is primarily affected in chronic obstructive pulmonary disease (COPD)?",
+      "options": ["Lungs", "Heart", "Liver", "Kidneys"],
+      "answer": "Lungs",
+      "explanation": "COPD is a chronic lung disease characterized by airflow obstruction, often caused by smoking or long-term exposure to pollutants."
+    }
+  ],
+  "Pharmacology": [
+    {
+      "id": 1,
+      "question": "Which class of drugs is commonly used to treat bacterial infections?",
+      "options": ["Antibiotics", "Antivirals", "Antifungals", "Antihistamines"],
+      "answer": "Antibiotics",
+      "explanation": "Antibiotics target bacterial infections by either killing bacteria (bactericidal) or inhibiting their growth (bacteriostatic)."
+    }
+  ],
+  "Physiology": [
+    {
+      "id": 1,
+      "question": "Which organ is responsible for filtering blood in the human body?",
+      "options": ["Liver", "Kidneys", "Lungs", "Heart"],
+      "answer": "Kidneys",
+      "explanation": "The kidneys filter waste and excess fluids from the blood, maintaining electrolyte balance and producing urine."
+    }
+  ]
+}

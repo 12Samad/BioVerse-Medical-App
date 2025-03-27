@@ -1,0 +1,36 @@
+{
+    "flashcards": [
+      {
+        "id": 1,
+        "question": "What is the largest organ in the human body?",
+        "answer": "The skin",
+        "hint": "It covers your entire body and regulates temperature."
+      },
+      {
+        "id": 2,
+        "question": "Which blood type is known as the universal donor?",
+        "answer": "O negative (O-)",
+        "hint": "_ _\n| |\n‾ ‾"
+      },
+      {
+        "id": 3,
+        "question": "What is the medical term for high blood pressure?",
+        "answer": "Hypertension",
+        "hint": "↑ BP"
+      },
+      {
+        "id": 4,
+        "question": "Which gland produces insulin?",
+        "answer": "The pancreas",
+        "hint": "It's located behind the stomach and also produces digestive enzymes."
+      },
+      {
+        "id": 5,
+        "question": "What is the normal resting heart rate for adults?",
+        "answer": "60-100 beats per minute",
+        "hint": "♡ ♡ ♡\n  ♡ ♡"
+      }
+    ]
+  }
+  
+  
